@@ -20,4 +20,4 @@ EX : ($numero < 0).
 
 ### Autor
 
-[Amanda Vitória](https://github.com/amandvitoria)
+[Amanda Vitória](https://github.com/amandvitoria) 
